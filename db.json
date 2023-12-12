@@ -4,7 +4,7 @@
       "id": 1,
       "images": ["IMG1_1", "IMG1_2", "IMG1_3", "IMG1_4", "IMG1"],
       "name": "Trenton modular sofa_3",
-      "price": "25,000.00",
+      "price": 25000.0,
       "description": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
       "colors": [
         "rgba(129, 109, 250, 1)",
@@ -23,7 +23,7 @@
       "id": 2,
       "images": ["IMG1_1", "IMG1_2", "IMG1_3", "IMG1_4", "IMG2"],
       "name": "Granite dining table with dining chair",
-      "price": "25,000.00",
+      "price": 25000.0,
       "description": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
       "colors": ["red", "black", "blue"],
       "sizes": ["S", "M", "L", "XL"],
